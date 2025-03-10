@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheng Hong Wong</h1>
 <h3 align="center">A Game Developer</h3>
 
-<p>- 👨‍💻 All of my projects are available at <a href="https://wshong8282.wixsite.com/portfolio">https://wshong8282.wixsite.com/portfolio</a></p>
+<p>- 👨‍💻 All of my projects are available at <a href="https://wsh.framer.website">https://wsh.framer.website</a></p>
 
 <p>- 📫 How to reach me <strong>wshong9@gmail.com</strong></p>
 
