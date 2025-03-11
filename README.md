@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sheng Hong Wong</h1>
 <h3 align="center">A Game Developer</h3>
 
-<p>- 👨‍💻 All of my projects are available at <a href="https://wsh.framer.website/Projects">https://wsh.framer.website/Projects</a></p>
+- 👨‍💻 All of my projects are available at <a href="https://wsh.framer.website/Projects">Portfolio</a>
 
-<p>- 📫 How to reach me <strong>wshong9@gmail.com</strong></p>
+- 📫 How to reach me [wshong9@gmail.com](mailto:wshong9@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,24 +14,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" alt="unity" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://i.pinimg.com/originals/4e/51/e6/4e51e673a4cab52660512041d00e9186.png" alt="unreal" width="50" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>   
+  <img src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" alt="Unity" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  <img src="https://i.pinimg.com/originals/4e/51/e6/4e51e673a4cab52660512041d00e9186.png" alt="Unreal Engine" width="50" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
 </p>
 
 <p>
