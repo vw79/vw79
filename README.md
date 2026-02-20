@@ -23,5 +23,5 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vw79&show_icons=true&locale=en&layout=compact" alt="vw79" />
+  <img align="left" src="https://github-readme-stats-snowy-alpha-20.vercel.app/api/top-langs?username=vw79&layout=compact" />
 </p>
